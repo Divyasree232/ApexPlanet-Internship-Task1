@@ -35,7 +35,7 @@ This project demonstrates essential data cleaning and preparation techniques on 
 
 ---
 
-## ✅ Cleaning Operations Performed
+##  Cleaning Operations Performed
 
 ### 1. Data Type Conversion
 | Column | Before | After |
